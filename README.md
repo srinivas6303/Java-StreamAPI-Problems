@@ -13,19 +13,7 @@ Each problem focuses on real-time use cases like:
 
 ---
 
-## 📂 Repository Structure
-
-Java-StreamAPI-Problems/
-├── src/
-│ ├── problem01/
-│ ├── problem02/
-│ ├── ...
-│ └── problem45/
-├── README.md
-└── pom.xml (if Maven-based)
-
-
-Each folder contains:
+## 📂 Folder contains:
 - ✅ **Problem Statement (as comment)**
 - ✅ **Solution using Stream API**
 - ✅ **Main method to execute**
